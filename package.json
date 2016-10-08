@@ -1,0 +1,17 @@
+{
+  "name": "sunfounder_rpi_sensor_kit",
+  "version": "0.0.1",
+  "author": "Simon Arnell",
+  "license": "MIT",
+  "dependencies": {
+    "wiring-pi": "*",
+    "lirc_node": "*",
+    "nanotimer": "*",
+    "w1temp": "*",
+    "es6-promise": "*",
+    "node-dht-sensor": "*",
+    "lcdi2c": "*",
+    "bmp085": "*",
+    "mpu6050": "*"
+  }
+}
